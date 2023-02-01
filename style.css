@@ -82,10 +82,7 @@ footer,
   color: #e5e7eb;
 }
 
-.quote{
-  color: #1f2937;
-}
-
+.quote, 
 .two{
   color: #1f2937;
 }
@@ -153,6 +150,22 @@ h2{
 
 /* Section three */
 
+.quote{
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.quote-text{
+  font-size: 2.25rem;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.author{
+  font-size: 1.5rem;
+  text-align: right;
+  font-weight: bold;
+}
 
 /* Section four */
 
